@@ -6,10 +6,4 @@ Im Drafti.sh, aka nexxydev. A 13 y/o programmer.
 - 📫 How to reach me: I'll add my telegram at some point.
 - ⚡ Fun question: If you kill yourself, is it natural selection
 
-<!--
-**nexxydev/nexxydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--->
+also, my basic python chat is pretty poggers pogchamp innit my g
